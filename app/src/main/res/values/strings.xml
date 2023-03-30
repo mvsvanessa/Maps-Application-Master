@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Maps Rota</string>
+    <string name="title_activity_maps">Maps Rota</string>
+    <string name="btBuscarRota">Buscar rota</string>
+    <string name="hintLocal">Informe um endereço</string>
+    <string name="tvDistancia">Distancia: </string>
+    <string name="tvTDuracao">Tempo: </string>
+</resources>
